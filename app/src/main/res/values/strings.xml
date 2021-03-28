@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Warn Me Application</string>
+    <string name="title">Android App Development (IET)</string>
+    <string name="click">Tap Me!</string>
+    <string name="alert">Non-cancellable dialog</string>
+    <string name="dismiss">Close</string>
+</resources>
